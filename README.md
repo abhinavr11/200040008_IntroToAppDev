@@ -1,4 +1,4 @@
-# calculator
+# Calculator
 
 My first Flutter project.
 
