@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
       title: 'Android Dev',
       theme: ThemeData(
 
-        primarySwatch: Colors.blue,
+        primarySwatch: Colors.green,
       ),
       home: const MyHomePage(title: 'Calculator'),
     );
